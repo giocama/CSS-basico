@@ -1,0 +1,21 @@
+#title {
+    color: indigo;
+    text-align: center;
+}
+
+body {
+    background-image: url(https://good2b.es/wp-content/uploads/2015/03/flrn_gif_01.gif);
+  }
+
+  .p-green{
+    color: yellow;
+}
+
+.p-red{
+    color: purple;
+}
+
+h3{
+    color: purple;
+    text-align: center;
+}

@@ -1,0 +1,31 @@
+/* body{
+    background-color:lightgreen;
+} */
+
+#title {
+    color: indigo;
+    text-align: center;
+}
+
+/* p{
+    color: limegreen;
+    background-color: gray;
+} */
+
+.p-large{
+    font-size: 32px;
+}
+
+.p-green{
+    color: hotpink;
+    background-color: indigo;
+}
+
+.p-red{
+    color: goldenrod;
+    background-color: black;
+}
+
+/* h1{
+    color: red;
+} */
