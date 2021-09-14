@@ -1,0 +1,43 @@
+body {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5cTXmlxOkqc2V9sHu0wwN7icmYWMy6IFJbA&usqp=CAU");
+}
+
+.title {
+    text-align: center;
+    color: royalblue;
+    background-color: black;
+    border: 5px dotted red;
+}
+
+.subtitle {
+    background-color: red;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+#caja {
+    background-color: black;
+    color: tomato;
+}
+
+#caja p {
+    color: white;
+    background-color: white;
+}
+
+#caja2 {
+    color: teal;
+    background-color: white;
+}
+
+#caja {
+    width: 400px;
+    height: 200px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+p {
+    background-color: white;
+}
