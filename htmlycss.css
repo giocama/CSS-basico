@@ -1,0 +1,27 @@
+body {
+    color: lightslategray;
+}
+
+.title {
+    color: black;
+    text-align: center;
+}
+
+.title1 {
+    color: white;
+    background-color: grey;
+    font-size: 20px;
+}
+
+/* .html {
+    float: left;
+}
+
+.css {
+    float: left;
+} */
+
+.text1 {
+    color: black;
+    text-align: right;
+}
